@@ -1,0 +1,40 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-image: url("https://th.bing.com/th/id/R.1ad0821bbf94475f99a101dcbb6b30f4?rik=igwRltWlDnVCVw&riu=http%3a%2f%2fwww.publicdomainpictures.net%2fpictures%2f40000%2fvelka%2fabstract-green-background-1361187771Euk.jpg&ehk=YFLYkQwjR%2bgUv%2fZ20PGt%2f5wC5q4az11DvEr00mimhFM%3d&risl=&pid=ImgRaw&r=0");
+background-size: cover;
+font-weight: bold;
+color: white;
+font-size: 30px;
+}
+h1{
+    color: goldenrod;
+}
+#message-el{
+    font-style: italic;
+}
+#btn{
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border-radius: 2px;
+}
+#btn2{
+    margin-top: 10px;
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border-radius: 2px;
+}
+.flex{
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
